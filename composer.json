@@ -1,0 +1,21 @@
+{
+    "name": "vitoutry/permission-ui",
+    "description": "permission and roles UI for spatie",
+    "type": "library",
+    "require": {
+        "jeroennoten/laravel-adminlte": "dev-master", 
+        "spatie/laravel-permission": "dev-master" ,
+        "vitoutry/lrepository": "^1.1",
+        "laravelcollective/html": "^6.0@dev",
+        "kris/laravel-form-builder": "^1.16@dev",
+        "yajra/laravel-datatables-oracle": "^9.0@dev"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "vitoutry",
+            "email": "vitoutry@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
